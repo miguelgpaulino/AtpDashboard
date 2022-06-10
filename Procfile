@@ -1,1 +1,1 @@
-web: gunicorn ATPDashboard:app --log-file -
+web: gunicorn ATPDashboard:server --log-file -
