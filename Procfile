@@ -1,1 +1,1 @@
-web: gunicorn app:ATPDashboard
+web: gunicorn atpdashboard:app
