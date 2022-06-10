@@ -1,9 +1,6 @@
-import dash
-from dash import dcc
-from dash import html
-from dash.dependencies import Input, Output
-import plotly.graph_objects as go
-import pandas as pd
-import plotly.express as px
-import numpy as np
-import logging
+dash
+plotly.graph_objects
+pandas
+plotly.express
+numpy
+logging
