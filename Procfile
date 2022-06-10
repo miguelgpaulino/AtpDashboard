@@ -1,1 +1,1 @@
-web gunicorn ATPDashboard:server
+web: gunicorn ATPDashboard:server
