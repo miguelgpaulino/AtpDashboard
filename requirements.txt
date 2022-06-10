@@ -1,6 +1,5 @@
 dash
-plotly.graph_objects
+plotly
 pandas
-plotly.express
 numpy
 logging
