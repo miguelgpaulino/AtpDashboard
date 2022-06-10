@@ -1,1 +1,1 @@
-web: gunicorn atpdashboard:app
+web: gunicorn atpdashboard:server
