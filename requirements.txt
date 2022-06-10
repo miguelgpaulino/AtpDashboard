@@ -1,5 +1,4 @@
 gunicorn
 dash
-dash.dependencies
 plotly
 pandas
